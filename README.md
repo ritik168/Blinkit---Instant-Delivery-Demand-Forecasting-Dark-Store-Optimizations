@@ -71,7 +71,9 @@ Q.8 Correlation Analysis (Delivery Time, Distance, Price.
  
  . Reduce SLA (Late Delivery) breaches to lower  the cancellations rates.
 
-# . 
+# Summary Report
+
+  (https://github.com/ritik168/Blinkit---Instant-Delivery-Demand-Forecasting-Dark-Store-Optimizations/blob/main/Blinkit_Full_Project%20Reportt.pptx)
  
 # Project End
 
