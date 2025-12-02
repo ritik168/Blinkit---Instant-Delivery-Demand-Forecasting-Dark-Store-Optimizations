@@ -40,6 +40,22 @@ Scikit-learn
 
 Jupyter Notebook
 
+# 📌 Key Insights
+
+. Most of the orders are In Morning 5 AM – 8 AM and in Evening 5 PM – 10 PM. 
+
+. All stores are getting almost equal number of orders.
+
+. After the analysis Grocery is the top selling Items then after 
+  Household<Fruits<Snacks<Beverages<Personal care<Dairy etc.
+
+. After the calculating  Revenue of the November month Date 2025-11-09 is the Day when Revenue generates more.
+
+. Most of the cancellations are In Morning 5 AM – 8 AM and in Evening 5 PM – 10 PM. 
+
+. Zone Z-24 and  Z-17 is that zone where cancellations is more.
+
+
 # 🧠 Business Recomendations
 
  Increase rider availability in peak hours.
@@ -55,7 +71,7 @@ Jupyter Notebook
  Reduce SLA (Late Delivery) breaches to lower  the cancellations rates.
 
 
-
+# Project End
 
 
 
