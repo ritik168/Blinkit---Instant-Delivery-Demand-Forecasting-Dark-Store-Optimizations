@@ -28,7 +28,7 @@ Q.7 Does delivery time cause cancellations.
 Q.8 Correlation Analysis (Delivery Time, Distance, Price.
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python
 
@@ -39,6 +39,21 @@ Matplotlib
 Scikit-learn
 
 Jupyter Notebook
+
+# 🧠 Business Recomendations
+
+ Increase rider availability in peak hours.
+ 
+ Improve delivery speed in slow-performing zones.
+ 
+ Focus inventory on high-selling categories.
+ 
+ Relocate or optimize underperforming stores.
+ 
+ Open new stores in underserved demand clusters.
+ 
+ Reduce SLA (Late Delivery) breaches to lower  the cancellations rates.
+
 
 
 
