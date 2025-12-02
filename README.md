@@ -1,5 +1,6 @@
 # Blinkit-Instant Delivery Demand Forecasting & Dark Store Optimizations
 ![Blinkit Logo](https://github.com/ritik168/Blinkit---Instant-Delivery-Demand-Forecasting-Dark-Store-Optimizations/blob/main/blinkitapp%20logo.webp)
+
 # 📌 Objective
 
 To predict how many orders Blinkit will receive at different hours of the day and identify which areas need more or fewer dark stores, so that deliveries become faster, riders are used efficiently, and customer experience improves.
@@ -30,15 +31,15 @@ Q.8 Correlation Analysis (Delivery Time, Distance, Price.
 
 # 🛠️ Tech Stack
 
-Python
+. Python
 
-Pandas, NumPy
+. Pandas, NumPy
 
-Matplotlib
+. Matplotlib
 
-Scikit-learn
+. Scikit-learn
 
-Jupyter Notebook
+. Jupyter Notebook
 
 # 📌 Key Insights
 
@@ -58,19 +59,20 @@ Jupyter Notebook
 
 # 🧠 Business Recomendations
 
- Increase rider availability in peak hours.
+ . Increase rider availability in peak hours.
  
- Improve delivery speed in slow-performing zones.
+ . Improve delivery speed in slow-performing zones.
  
- Focus inventory on high-selling categories.
+ . Focus inventory on high-selling categories.
  
- Relocate or optimize underperforming stores.
+ . Relocate or optimize underperforming stores.
  
- Open new stores in underserved demand clusters.
+ . Open new stores in underserved demand clusters.
  
- Reduce SLA (Late Delivery) breaches to lower  the cancellations rates.
+ . Reduce SLA (Late Delivery) breaches to lower  the cancellations rates.
 
-
+# . 
+ 
 # Project End
 
 
