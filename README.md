@@ -1,11 +1,11 @@
 # Blinkit-Instant Delivery Demand Forecasting & Dark Store Optimizations
 ![Blinkit Logo](https://github.com/ritik168/Blinkit---Instant-Delivery-Demand-Forecasting-Dark-Store-Optimizations/blob/main/blinkitapp%20logo.webp)
 
-# 📌 Objective
+## 📌 Objective
 
 To predict how many orders Blinkit will receive at different hours of the day and identify which areas need more or fewer dark stores, so that deliveries become faster, riders are used efficiently, and customer experience improves.
 
-# 🧠 Business Problems 
+## 🧠 Business Problems 
 Q.1 Hourly demand analysis .
 
 Q.2 City Level Demand Analysis.
@@ -29,7 +29,7 @@ Q.7 Does delivery time cause cancellations.
 Q.8 Correlation Analysis (Delivery Time, Distance, Price.
 
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 . Python
 
@@ -41,7 +41,7 @@ Q.8 Correlation Analysis (Delivery Time, Distance, Price.
 
 . Jupyter Notebook
 
-# 📌 Key Insights
+## 📌 Key Insights
 
 . Most of the orders are In Morning 5 AM – 8 AM and in Evening 5 PM – 10 PM. 
 
@@ -57,7 +57,7 @@ Q.8 Correlation Analysis (Delivery Time, Distance, Price.
 . Zone Z-24 and  Z-17 is that zone where cancellations is more.
 
 
-# 🧠 Business Recomendations
+## 🧠 Business Recomendations
 
  . Increase rider availability in peak hours.
  
@@ -71,11 +71,11 @@ Q.8 Correlation Analysis (Delivery Time, Distance, Price.
  
  . Reduce SLA (Late Delivery) breaches to lower  the cancellations rates.
 
-# Summary Report
+## Summary Report
 
   https://github.com/ritik168/Blinkit---Instant-Delivery-Demand-Forecasting-Dark-Store-Optimizations/blob/main/Blinkit_Full_Project%20Reportt.pptx
  
-# Project End
+## Project End
 
 
 
